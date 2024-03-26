@@ -1,0 +1,31 @@
+{
+  "name": "rerumvelit",
+  "version": "1.0.0",
+  "description": "PubSub Messaging Pattern in Typescript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrwinDenesik/rerumvelit.git"
+  },
+  "keywords": [
+    "commodi",
+    "voluptas",
+    "publisher",
+    "subscriber",
+    "notifier",
+    "event",
+    "emitter",
+    "signal",
+    "messaging",
+    "pattern"
+  ],
+  "author": "GwendolynJast",
+  "license": "MIT",
+  "homepage": "https://github.com/IrwinDenesik/rerumvelit.git",
+  "devDependencies": {
+    "@types/es6-collections": "^0.5.31",
+    "@types/jasmine": "^2.8.6",
+    "jasmine-spec-reporter": "^4.2.1",
+    "jasmine-ts": "^0.2.1"
+  }
+}
